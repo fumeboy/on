@@ -9,8 +9,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/urface/cli"
-	"gopkg.in/fsnotify.v1"
+	"github.com/urfave/cli"
 )
 
 func main() {
