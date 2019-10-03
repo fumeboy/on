@@ -1,9 +1,9 @@
 base: ./vendor
 dependencies:
-  github.com/codegangsta/cli:
+  github.com/urface/cli:
     type: git
-    name: github.com/codegangsta/cli
-    remote: https://github.com/codegangsta/cli
+    name: github.com/urface/cli
+    remote: https://github.com/urface/cli
     commit: 222ec6fb7eb8a3da24cfa4017694ba45e3f1f516
   golang.org/x/sys:
     type: git
