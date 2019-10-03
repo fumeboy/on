@@ -9,6 +9,8 @@ import (
 	"path/filepath"
 	"text/template"
 
+	"gopkg.in/fsnotify.v1"
+
 	"github.com/urfave/cli"
 )
 
